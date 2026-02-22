@@ -1,0 +1,7 @@
+.venv
+__pycache__
+.git
+.gitignore
+*.mp4
+*.log
+data/raw/
