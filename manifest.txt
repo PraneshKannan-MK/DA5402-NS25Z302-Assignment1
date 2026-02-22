@@ -1,0 +1,5 @@
+
+[v1] created by data_prep.py | raw=data/raw/ai4i2020.csv | train_file=data/processed/v1_train.csv
+[v1] created by data_prep.py | raw=data/raw/ai4i2020.csv | train_file=data/processed/v1_train.csv
+[v1] created by data_prep.py | raw=data/raw/ai4i2020.csv | train_file=data/processed/v1_train.csv
+[v1] created by data_prep.py | raw=data/raw/ai4i2020.csv | train_file=data/processed/v1_train.csv
