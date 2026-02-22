@@ -6,6 +6,5 @@ env/
 *.log
 .DS_Store
 Thumbs.db
-models/*.pkl
 *.mp4
 .vscode/

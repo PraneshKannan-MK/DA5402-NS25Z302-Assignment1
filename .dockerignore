@@ -4,5 +4,4 @@ __pycache__
 .gitignore
 *.mp4
 *.log
-models/*.pkl
 data/raw/
