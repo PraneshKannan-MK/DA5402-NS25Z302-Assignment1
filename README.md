@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/DVcrdKOW)
-=======
 # DA5402 Manual MLOps Assignment — Predictive Maintenance System
 
 ## Overview
@@ -31,16 +28,16 @@ manual_mlops_project/
 
 ## Setup Instructions
 
-### 1️⃣ Activate Environment
+### Activate Environment
 python -m venv .venv
 .\.venv\Scripts\Activate
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 pip install -r requirements.txt
 
 ---
 
-## ▶️ Execution Flow
+## Execution Flow
 
 ### Data Preparation
 python -m src.data_prep
@@ -90,4 +87,3 @@ The workflow and commands are documented to ensure reproducibility during evalua
 
 ## Constraints
 No automated MLOps tools (MLflow, DVC, Airflow, Kubernetes) were used.
->>>>>>> 1940ee696242a09afc5c644020b9ee82eee365eb
