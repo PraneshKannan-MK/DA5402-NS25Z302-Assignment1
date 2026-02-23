@@ -10,19 +10,38 @@ The goal is to manage the full lifecycle — data versioning, model training, de
 
 manual_mlops_project/
 │
+├── .venv/
+│
 ├── data/
+│   ├── processed/
+│   ├── production/
+│   └── raw/
+│
+├── demo/
+│   └── screencast.mp4
+│
 ├── models/
+│   ├── model_metadata.log
+│   ├── model_v1_metadata.json
+│   └── model_v1.pkl
+│
 ├── src/
+│   ├── __pycache__/
 │   ├── data_prep.py
-│   ├── train.py
 │   ├── inference.py
 │   ├── monitor.py
 │   ├── test_api.py
+│   ├── train.py
 │   └── utils.py
 │
+├── .dockerignore
+├── .gitignore
 ├── config.yaml
-├── requirements.txt
 ├── deployment_log.csv
+├── Dockerfile
+├── manifest.txt
+├── README.md
+└── requirements.txt
 
 ---
 
