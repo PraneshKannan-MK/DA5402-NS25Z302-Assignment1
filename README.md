@@ -8,6 +8,7 @@ The goal is to manage the full lifecycle — data versioning, model training, de
 
 ## Project Structure
 
+```text
 manual_mlops_project/
 │
 ├── .venv/
@@ -26,7 +27,6 @@ manual_mlops_project/
 │   └── model_v1.pkl
 │
 ├── src/
-│   ├── __pycache__/
 │   ├── data_prep.py
 │   ├── inference.py
 │   ├── monitor.py
@@ -42,6 +42,7 @@ manual_mlops_project/
 ├── manifest.txt
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
