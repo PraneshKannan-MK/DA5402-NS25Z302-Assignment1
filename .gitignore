@@ -6,5 +6,4 @@ env/
 *.log
 .DS_Store
 Thumbs.db
-*.mp4
 .vscode/
